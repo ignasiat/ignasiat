@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ignasi Amargós </h1>
 <h3 align="center">I'm a FullStack Developer based on JavaScript and TypeScript</h3>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a micro-frontend project at Bemobile
 - 🌱 I’m currently learning more React
 - 💬 Ask me about React, Redux and Typescript
-- 📫 How to reach me: https://www.linkedin.com/in/iamargos-javascript-developer/
 - ⚡ Fun fact: Passionate about Barcelona, the city which I was born in.
 
 
@@ -18,8 +15,7 @@ Here are some ideas to get you started:
   
 
 <h3 align="left">Frameworks / Libraries:</h3>
-<p align="left"> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+<p align="left">  
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 </p>
@@ -54,14 +50,6 @@ Here are some ideas to get you started:
           <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://icons-for-free.com/download-icon-invision+logo+network+social+icon-1320086258631241956_512.png" alt="invision" width="40" height="40"/> </a>
         </p>    
       </td>
-      <td>
-        <h4 align="left">Testing:</h4>
-        <p align="left"> 
-          <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-          <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-          <a href="https://www.cypress.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> </a>
-  </p>
-      </td>
     </tr>
     <tr>
       <td>
@@ -81,6 +69,14 @@ Here are some ideas to get you started:
             <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
             <a href="https://github.com/" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/></a>
         </p>         
+      </td>
+      <td>
+        <h4 align="left">Testing:</h4>
+        <p align="left"> 
+          <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
+          <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+          <a href="https://www.cypress.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" alt="cypress" width="40" height="40"/> </a>
+  </p>
       </td>
     </tr>
   </tbody>
