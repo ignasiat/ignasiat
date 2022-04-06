@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/iamargos-javascript-developer/" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="Linkedin Ignasi" height="40" width="40"/> <span> My LinkedIn </span> </a>
+<a href="https://www.linkedin.com/in/ignasi-amargos-business-analyst/" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="Linkedin Ignasi" height="40" width="40"/> <span> My LinkedIn </span> </a>
 <p align="left">
 <img align="center" src="https://i.blogs.es/d99c32/new_logo_gmail.svg/450_1000.png" alt="email logo" height="30" width="40"/> <span>My email: ignasi.amargos@gmail.com</span>
   
