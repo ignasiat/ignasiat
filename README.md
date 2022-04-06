@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignasi Amargós </h1>
 <h3 align="center">I'm a FullStack Developer based on JavaScript and TypeScript</h3>
 
-- 🔭 I’m currently working as a frontend engineer usign Elm (functional programming)
+- 🔭 I’m currently working as a Senior Business Analyst at Sollers Consulting
 - 🛰 I was working in a micro-frontend project using React with Redux and Typescript
 - 🌱 I’m currently learning more React
 - 💬 Ask me about React, Redux and Typescript
